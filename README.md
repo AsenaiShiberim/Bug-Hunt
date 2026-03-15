@@ -28,6 +28,6 @@ A focused bug hunt on Buggy Cars Rating — a site built for QA testing practice
 ## Files in this repo
 
 - `README.md` — project overview
-- `BugHuntReport_BuggyCars.docx` — full bug report with all 15 findings, steps to reproduce, expected vs actual, and severity ratings
+- `BugReportProject.pdf` — full bug report with all 15 findings, steps to reproduce, expected vs actual, and severity ratings
 
 ---
